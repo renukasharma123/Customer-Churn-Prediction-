@@ -1,5 +1,8 @@
 CUSTOMER CHURN PREDICTION MODEL:
 
+
+Project Objective :
+
 This project is a Customer Churn Prediction Web Application built using Machine Learning and Streamlit.
 It predicts whether a customer is likely to churn (leave the service) based on customer details such as demographics, subscription type, and usage behavior.
 
